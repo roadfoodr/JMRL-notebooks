@@ -1,0 +1,9 @@
+name: JMRL-notebooks
+channels:
+        - conda-forge
+dependencies:
+        - numpy
+        - pandas
+        - geopandas
+        - folium
+        - voila
